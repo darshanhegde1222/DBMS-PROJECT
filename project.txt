@@ -1,0 +1,5 @@
+We have used php,java script, html, css for ticket booking system project.
+Used mysql for database.
+Xaampp is used and in c drive in xaampp in htdocs the folder movieb is stored and 
+To run the project: localhost/movieb/index.php
+
